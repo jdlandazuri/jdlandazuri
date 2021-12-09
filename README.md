@@ -1,6 +1,8 @@
   Hi Everyone
-- 👋 Hi, I’m @jdlandazuri, I'm from Colombia and live in Bogotá city
-- 👋 I'm Associate in mechatronic automation, and I'm student Engineer Systems, i like technological automation.
+Hi, I’m @jdlandazuri, I'm from Colombia and live in Bogotá city, I'm Associate in mechatronic automation, and I'm student Engineer Systems, i like technological automation.
+  
+<!-- 👋 Hi, I’m @jdlandazuri, I'm from Colombia and live in Bogotá city
+- 👋 I'm Associate in mechatronic automation, and I'm student Engineer Systems, i like technological automation.-->
 - 👀 I’m interested in Design web, Developer, support TI and Cloud Computing
 - 🌱 I’m currently learning support TI and cloud computing
 - 💞️ I’m looking to collaborate on ...
