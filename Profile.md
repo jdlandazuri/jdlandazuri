@@ -56,7 +56,7 @@ I also have knowledge and skills in Electricity, electronics, systems embedded.
 - Teamwork
 - Problem-solving
 
-<h1> Freetimes </h1>
+<h1> Freetime </h1>
 
 <!--I'm from Colombia and live in Bogotá city, I’m interested in Design web, Developer, support TI and Cloud Computing.-->  
 - 👀 I like watching movies action, horror, suspense, science fiction, and love watching anime.
