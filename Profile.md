@@ -50,19 +50,14 @@ I also have knowledge and skills in Electricity, electronics, systems embebed.
 
 <h1> My Courses </h1>
 
-• Cloud Practitioner con AWS – Agosto 2023.
-• Aspectos básicos de asistencia técnica. – 29 Jun 2021
-• Los bits y los bytes de las redes informaticas. – 09 Ago 2021
-• Sistemas Operativos usuario avanzado. – 26 Ago 2021
-• Excel 2016 – 21 nov 2019.
-• DISEÑO DE PRODUCTOS ELECTRÓNICOS CON 
-MICROCOTROLADORES (con intensidad horaria de 40 horas) Cali, 
-junio del 2018.
-• ESTRUCTURA DEL LENGUAJE DE PROGRAMACIÓN C++ NIVEL I 
-(con intensidad horaria de 40 horas) Tolima, junio del 2018.
-• CONTROLADORES LOGICOS PROGRAMABLES_PLC I (con 
-intensidad horaria de 40horas) Medellín, mayo del 2018
-
+- Cloud Practitioner con AWS – Agosto 2023.
+- Aspectos básicos de asistencia técnica. – 29 Jun 2021
+- Los bits y los bytes de las redes informaticas. – 09 Ago 2021
+- Sistemas Operativos usuario avanzado. – 26 Ago 2021
+- Excel 2016 – 21 nov 2019.
+- DISEÑO DE PRODUCTOS ELECTRÓNICOS CON MICROCOTROLADORES (con intensidad horaria de 40 horas) Cali, junio del 2018.
+- ESTRUCTURA DEL LENGUAJE DE PROGRAMACIÓN C++ NIVEL I (con intensidad horaria de 40 horas) Tolima, junio del 2018.
+- CONTROLADORES LOGICOS PROGRAMABLES_PLC I (con intensidad horaria de 40horas) Medellín, mayo del 2018
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!---
