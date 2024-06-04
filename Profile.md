@@ -11,8 +11,8 @@ I consider myself a curious person.
 
 - Front-end web design, HTML, CSS, JS.
 - Programming C++/C#, VBA, Python, .Net.
-- Basic in PHP and Python.
-- Basic in SQL and MySQL.
+- Basic in PHP.
+- Basic in Workbeach MySQL.
 - Management of Git and GitHub.
   
 <h3>Knowledge and Skills operating system</h3>
