@@ -23,7 +23,7 @@ I consider myself a curious person.
 - Operating System backup.
 - Disaster Recovery.
 
-<h3> Administration and Knowledges in Network, Serveles and Cloud </h3>
+<h3> Administration and Knowledges in Network and Services Cloud </h3>
 
 - Server web.
 - Virtualitation.
