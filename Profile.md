@@ -9,7 +9,8 @@ devices, and components at both Hardware and Software levels. Skilled in problem
 - 📫 How to reach me Github.com/jdlandazuri, Email: davidlandazurii@gmail.com
 - 📫 LinkedIn: www.linkedin.com/in/jesus-david-landazuri-monoga-b109491a9
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<imag src:"(https://octodex.github.com/images/yaktocat.png)"> </img>
+<image>![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!---
 jdlandazuri/jdlandazuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
