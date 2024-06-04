@@ -41,7 +41,7 @@ Cost estimation and budgeting.
 - Office 365 (Excel, Word, Power Point)
 - Visual Studio, Visual Studio Code, Netbeans.
 
-I also have knowledge and skills in Electricity, electronics, systems embebed.
+I also have knowledge and skills in Electricity, electronics, systems embedded.
 
 <h1> Freetimes </h1>
 
