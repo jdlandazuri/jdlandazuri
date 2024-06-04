@@ -1,4 +1,7 @@
-  Hi Everyone
+<h1> Profile </h1>
+  
+  <h1> Hi Everyone </h1>
+  
 👋Hi, I’m Jesus David Landazuri, I'm Mecatronics Technologist with over 4 years of experience in setting up equipment, 
 devices, and components at both Hardware and Software levels. Skilled in problem-solving, on-site and remote technical support.
 
@@ -11,14 +14,14 @@ Basic in PHP and Python.
 Basic in SQL and MySQL.
 Management of Git and GitHub.
 
-<h2>Knowledge and Skills operating system</h2>
+<h3>Knowledge and Skills operating system</h3>
 Hard Disk Partitioning.
 Operating System backup.
 Disaster Recovery.
 Operating Systems Maintenance.
 Operating systems administration.
 
-<h2> Administration and Knowledges in Networking, Serveles and Cloud </h2>
+<h3> Administration and Knowledges in Networking, Serveles and Cloud </h3>
 Serveless web.
 Serveless network.
 Virtualitation.
@@ -26,7 +29,7 @@ Docker containers.
 Configuration Network and routers.
 Administration and configuration AWS Cloud.
 
-<h2>Programs</h2>
+<h3>Programs</h3>
 3D Design in Autodesk Inventor.
 Office 365 (Excel, Word, Power Point)
 Visual Studio, Visual Studio Code, Netbeans.
@@ -54,6 +57,7 @@ junio del 2018.
 (con intensidad horaria de 40 horas) Tolima, junio del 2018.
 • CONTROLADORES LOGICOS PROGRAMABLES_PLC I (con 
 intensidad horaria de 40horas) Medellín, mayo del 2018
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!---
