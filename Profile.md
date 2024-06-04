@@ -11,9 +11,17 @@ I consider myself a curious person.
 <ul>
   <li>
     Front-end web design, HTML, CSS, JS.
-    Programming C++/C#, VBA, Python, .Net.
+  </li>
+  <li>
+     Programming C++/C#, VBA, Python, .Net.
+  </li>
+  <li>
     Basic in PHP and Python.
+  </li>
+  <li>
     Basic in SQL and MySQL.
+  </li>
+  <li>
     Management of Git and GitHub.
   </li>
 </ul>
