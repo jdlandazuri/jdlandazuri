@@ -24,17 +24,18 @@ I consider myself a curious person.
 - Operating systems administration.
 
 <h3> Administration and Knowledges in Networking, Serveles and Cloud </h3>
-Serveless web.
-Serveless network.
-Virtualitation.
-Docker containers.
-Configuration Network and routers.
-Administration and configuration AWS Cloud.
+
+- Serveless web.
+- Serveless network.
+- Virtualitation.
+- Docker containers.
+- Configuration Network and routers.
+- Administration and configuration AWS Cloud.
 
 <h3>Programs</h3>
-3D Design in Autodesk Inventor.
-Office 365 (Excel, Word, Power Point)
-Visual Studio, Visual Studio Code, Netbeans.
+- 3D Design in Autodesk Inventor.
+- Office 365 (Excel, Word, Power Point)
+- Visual Studio, Visual Studio Code, Netbeans.
 
 I also have knowledge and skills in Electricity, electronics, systems embebed.
 
@@ -48,6 +49,7 @@ I also have knowledge and skills in Electricity, electronics, systems embebed.
 - 📫 LinkedIn: www.linkedin.com/in/jesus-david-landazuri-monoga-b109491a9
 
 <h1> My Courses </h1>
+
 • Cloud Practitioner con AWS – Agosto 2023.
 • Aspectos básicos de asistencia técnica. – 29 Jun 2021
 • Los bits y los bytes de las redes informaticas. – 09 Ago 2021
