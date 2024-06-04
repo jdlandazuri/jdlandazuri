@@ -8,30 +8,20 @@ devices, and components at both Hardware and Software levels. Skilled in problem
 I consider myself a curious person.
 
 <h1>Knowledges and Skills in web development</h1>
-<ul>
-  <li>
-    Front-end web design, HTML, CSS, JS.
-  </li>
-  <li>
-     Programming C++/C#, VBA, Python, .Net.
-  </li>
-  <li>
-    Basic in PHP and Python.
-  </li>
-  <li>
-    Basic in SQL and MySQL.
-  </li>
-  <li>
-    Management of Git and GitHub.
-  </li>
-</ul>
 
+- Front-end web design, HTML, CSS, JS.
+- Programming C++/C#, VBA, Python, .Net.
+- Basic in PHP and Python.
+- Basic in SQL and MySQL.
+- Management of Git and GitHub.
+  
 <h3>Knowledge and Skills operating system</h3>
-Hard Disk Partitioning.
-Operating System backup.
-Disaster Recovery.
-Operating Systems Maintenance.
-Operating systems administration.
+
+- Hard Disk Partitioning.
+- Operating System backup.
+- Disaster Recovery.
+- Operating Systems Maintenance.
+- Operating systems administration.
 
 <h3> Administration and Knowledges in Networking, Serveles and Cloud </h3>
 Serveless web.
