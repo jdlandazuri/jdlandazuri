@@ -61,7 +61,7 @@ I also have knowledge and skills in Electricity, electronics, systems embedded.
 <!--I'm from Colombia and live in Bogotá city, I’m interested in Design web, Developer, support TI and Cloud Computing.-->  
 - 👀 I like watching movies, action, horror, suspense, science fiction, and love watching anime.
 - 🌱 I like walking, jogging, playing volleyball and soccer.
-- 💞️ I loves and enjoy nature and spending time with family or friends, I also like having some alone time .
+- 💞️ I loves and enjoy nature, spending time with family with my friends, I also like having some alone time .
 - 📫 How to reach me Github.com/jdlandazuri, Email: davidlandazurii@gmail.com
 - 📫 LinkedIn: www.linkedin.com/in/jesus-david-landazuri-monoga-b109491a9
 
