@@ -22,6 +22,7 @@ I consider myself a curious person.
     Basic in SQL and MySQL.
   </li>
   <li>
+    
     Management of Git and GitHub.
   </li>
 </ul>
