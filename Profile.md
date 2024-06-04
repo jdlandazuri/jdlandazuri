@@ -25,8 +25,7 @@ I consider myself a curious person.
 
 <h3> Administration and Knowledges in Networking, Serveles and Cloud </h3>
 
-- Serveless web.
-- Serveless network.
+- Server web.
 - Virtualitation.
 - Docker containers.
 - Configuration Network and routers.
