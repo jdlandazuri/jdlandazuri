@@ -1,4 +1,5 @@
   <h1> About me </h1>
+  
 Development web | IT Support Assistance | Databases | Mechatronics | networks | Electronics | AWS Cloud |  
 
 👋Hi everyone, I’m Jesus David Landazuri, I'm Mecatronics Technologist with over 4 years of experience in setting up equipment, 
