@@ -15,7 +15,7 @@ I consider myself a curious person.
 - Workbeach MySQL.
 - Management of Git and GitHub.
   
-<h3>Knowledge and Skills in Support</h3>
+<h3>Knowledge and Skills in IT Support</h3>
 
 - Hard Disk Partitioning.
 - Operating System backup.
