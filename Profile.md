@@ -30,8 +30,9 @@ I consider myself a curious person.
 - Docker containers.
 - Configuration Network and routers.
 - Administration and configuration AWS Cloud, Infrastructure as Code (IaaS), Platform as a Service (PaaS),
-Software as a Service (SaaS), Private cloud configuration, Network configuration and elastic IP, configuration
-CloudWatch, Administration Databases, Permissions management and bucket storage, Cost estimation and budgeting.
+Software as a Service (SaaS), Private cloud configuration, Network configuration, elastic IP configuration,
+CloudWatch analysis and metrics, mangement Databases, management and governance, Permissions management and bucket storage,
+Cost estimation and budgeting.
 
 <h3>Programs</h3>
 
