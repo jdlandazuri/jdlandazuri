@@ -17,11 +17,13 @@ I consider myself a curious person.
   
 <h3>Knowledge and Skills in IT Support</h3>
 
+- Presential and Remote Assistance.
+- Operating systems administration.
+- Operating Systems Maintenance.
+- Installation and configurate applications
 - Hard Disk Partitioning.
 - Operating System backup.
 - Disaster Recovery.
-- Operating Systems Maintenance.
-- Operating systems administration.
 
 <h3> Administration and Knowledges in Network, Serveles and Cloud </h3>
 
