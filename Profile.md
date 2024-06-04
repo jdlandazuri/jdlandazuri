@@ -1,8 +1,6 @@
 <h1> Profile </h1>
   
-  <h1> Hi Everyone </h1>
-  
-👋Hi, I’m Jesus David Landazuri, I'm Mecatronics Technologist with over 4 years of experience in setting up equipment, 
+👋Hi everyone, I’m Jesus David Landazuri, I'm Mecatronics Technologist with over 4 years of experience in setting up equipment, 
 devices, and components at both Hardware and Software levels. Skilled in problem-solving, on-site and remote technical support.
 
 I consider myself a curious person.
