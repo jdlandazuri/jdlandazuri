@@ -33,6 +33,7 @@ I consider myself a curious person.
 - Administration and configuration AWS Cloud.
 
 <h3>Programs</h3>
+
 - 3D Design in Autodesk Inventor.
 - Office 365 (Excel, Word, Power Point)
 - Visual Studio, Visual Studio Code, Netbeans.
