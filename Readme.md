@@ -4,7 +4,7 @@ Web Development | IT Support Assistance | Databases | Mechatronics | networks | 
 
 👋Hi everyone, I’m Jesus David Landazuri, I live in Bogota city, I'm Mecatronics Technologist with over 4 years of experience in setting up equipment, 
 devices, and components at both Hardware and Software levels. Skilled in problem-solving, on-site and remote technical support.
-I Knowledge in development web, Assitance IT support, Databases, networks, configuration work groups , create order works, 
+I Knowledge in development web, Assitance IT support, Databases, networks, configuration work groups , create worksorder, 
 skills comertials, atention at the client,  knowledges in AWS Cloud. 
 
 I consider myself a curious person.
