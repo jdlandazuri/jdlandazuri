@@ -12,10 +12,10 @@ I consider myself a curious person.
 - Front-end web design, HTML, CSS, JS.
 - Programming C++/C#, VBA, Python, .Net.
 - Basic in PHP.
-- Basic in Workbeach MySQL.
+- Workbeach MySQL.
 - Management of Git and GitHub.
   
-<h3>Knowledge and Skills operating systems</h3>
+<h3>Knowledge and Skills in Support</h3>
 
 - Hard Disk Partitioning.
 - Operating System backup.
@@ -23,13 +23,15 @@ I consider myself a curious person.
 - Operating Systems Maintenance.
 - Operating systems administration.
 
-<h3> Administration and Knowledges in Networking, Serveles and Cloud </h3>
+<h3> Administration and Knowledges in Network, Serveles and Cloud </h3>
 
 - Server web.
 - Virtualitation.
 - Docker containers.
 - Configuration Network and routers.
-- Administration and configuration AWS Cloud.
+- Administration and configuration AWS Cloud, Infrastructure as Code (IaaS), Platform as a Service (PaaS),
+Software as a Service (SaaS), Private cloud configuration, Network configuration and elastic IP, configuration
+CloudWatch, Administration Databases, Permissions management and bucket storage, Cost estimation and budgeting.
 
 <h3>Programs</h3>
 
