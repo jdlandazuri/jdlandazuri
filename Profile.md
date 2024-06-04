@@ -43,9 +43,20 @@ Cost estimation and budgeting.
 
 I also have knowledge and skills in Electricity, electronics, systems embedded.
 
+<h1>Soft Skills</h1>
+
+- Adaptability
+- Communication
+- Creative thinking
+- Reliability
+- Work ethics
+- Work under pressure
+- Teamwork
+- Problem-solving
+
 <h1> Freetimes </h1>
 
-- I'm from Colombia and live in Bogotá city, I’m interested in Design web, Developer, support TI and Cloud Computing.  
+<!--I'm from Colombia and live in Bogotá city, I’m interested in Design web, Developer, support TI and Cloud Computing.-->  
 - 👀 I like watching movies, action, horror, suspense, science fiction, and love watching anime.
 - 🌱 I like walking, jogging, playing volleyball and soccer.
 - 💞️ I loves and enjoy nature and spending time with family or friends, I also like having some alone time .
